@@ -19,8 +19,10 @@ This is a simple Flask application to manage transactions. The application allow
 ## Installation
 
 1. Clone the repository:
+2. GO to http://127.0.0.1:5000
 
 ```bash
+
 git clone https://github.com/mustafaangi/flask-transactions-app.git
 
 cd flask-transactions-app
