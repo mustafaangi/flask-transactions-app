@@ -22,11 +22,17 @@ This is a simple Flask application to manage transactions. The application allow
 
 ## Routes
 /: Redirects to /transactions.
+
 /transactions: Displays the list of transactions and the total balance.
+
 /add: Displays a form to add a new transaction.
+
 /edit/<int:transaction_id>: Displays a form to edit an existing transaction.
+
 /delete/<int:transaction_id>: Deletes a transaction.
+
 /search: Displays a form to search transactions by amount range.
+
 /balance: Displays the total balance of all transactions.
 
 ```bash
